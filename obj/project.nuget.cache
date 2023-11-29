@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAzb96/cF5qbTiGZnwdMrc9y2zfTaVhN6XK0Qk7hopZl1biBJgohIeuIdSflSV1jWaGSJh44JMUYg9wINZG6zw==",
+  "success": true,
+  "projectFilePath": "/home/lucas/github/APITarefas/APITarefas.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/lucas/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
