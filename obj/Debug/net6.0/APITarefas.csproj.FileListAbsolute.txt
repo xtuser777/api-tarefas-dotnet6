@@ -6,10 +6,16 @@
 /home/lucas/github/APITarefas/bin/Debug/net6.0/APITarefas.dll
 /home/lucas/github/APITarefas/bin/Debug/net6.0/ref/APITarefas.dll
 /home/lucas/github/APITarefas/bin/Debug/net6.0/APITarefas.pdb
+/home/lucas/github/APITarefas/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/lucas/github/APITarefas/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/lucas/github/APITarefas/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/lucas/github/APITarefas/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/lucas/github/APITarefas/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
 /home/lucas/github/APITarefas/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /home/lucas/github/APITarefas/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/lucas/github/APITarefas/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/lucas/github/APITarefas/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/lucas/github/APITarefas/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
 /home/lucas/github/APITarefas/obj/Debug/net6.0/APITarefas.csproj.AssemblyReference.cache
 /home/lucas/github/APITarefas/obj/Debug/net6.0/APITarefas.GeneratedMSBuildEditorConfig.editorconfig
 /home/lucas/github/APITarefas/obj/Debug/net6.0/APITarefas.AssemblyInfoInputs.cache
